@@ -6,7 +6,7 @@ package.domain = com.qrstudio
 source.dir = .
 source.include_exts = py,jpg,png,kv,atlas
 version = 3.0.0
-requirements = python3,kivy,qrcode,pillow
+requirements = python3,kivy,qrcode,pillow,pyjnius
 orientation = portrait
 fullscreen = 0
 
