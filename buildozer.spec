@@ -1,4 +1,5 @@
 [app]
+p4a.branch = master
 
 title = QR Studio
 package.name = qrstudio
