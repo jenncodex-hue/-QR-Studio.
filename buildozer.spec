@@ -12,7 +12,7 @@ fullscreen = 0
 
 # No shared-storage permission is needed: QR images and history are
 # stored in the app's private data directory.
-android.minapi = 23
+android.minapi = 24
 android.api = 35
 android.archs = arm64-v8a
 android.accept_sdk_license = True
